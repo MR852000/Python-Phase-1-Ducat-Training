@@ -1,1 +1,2 @@
-# Python-Phase-1-Ducat-Training
+# Phase 1 Python Logic Build 
+## Under Sourav Sir
